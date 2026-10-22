@@ -4,7 +4,7 @@
 
 ## 在线体验
 
-发布后可从 GitHub Pages 打开：`https://<GitHub 用户名>.github.io/piano-sight-game/`。
+在线体验：<https://yangguofengtop.github.io/piano-sight-game/>。
 
 ## 本地运行
 
